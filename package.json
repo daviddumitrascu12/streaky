@@ -1,0 +1,14 @@
+{
+  "name": "streaky-vercel-supabase",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  },
+  "devDependencies": {
+    "vercel": "^37.8.0"
+  }
+}
